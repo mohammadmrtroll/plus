@@ -2,4 +2,8 @@ re
 os
 json
 rubpy.types
+<<<<<<< HEAD
 rubpy
+=======
+rubpy
+>>>>>>> c1bf7e7 (botu)
